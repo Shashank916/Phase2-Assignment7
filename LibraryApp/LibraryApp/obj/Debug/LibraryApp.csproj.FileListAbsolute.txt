@@ -1,0 +1,8 @@
+D:\Phase-2\Day-7\Assignment\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe.config
+D:\Phase-2\Day-7\Assignment\LibraryApp\LibraryApp\bin\Debug\LibraryApp.exe
+D:\Phase-2\Day-7\Assignment\LibraryApp\LibraryApp\bin\Debug\LibraryApp.pdb
+D:\Phase-2\Day-7\Assignment\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.AssemblyReference.cache
+D:\Phase-2\Day-7\Assignment\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.SuggestedBindingRedirects.cache
+D:\Phase-2\Day-7\Assignment\LibraryApp\LibraryApp\obj\Debug\LibraryApp.csproj.CoreCompileInputs.cache
+D:\Phase-2\Day-7\Assignment\LibraryApp\LibraryApp\obj\Debug\LibraryApp.exe
+D:\Phase-2\Day-7\Assignment\LibraryApp\LibraryApp\obj\Debug\LibraryApp.pdb
